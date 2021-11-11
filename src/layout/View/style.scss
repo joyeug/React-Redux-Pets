@@ -1,0 +1,11 @@
+.l_view__wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+}
+
+.l_view__container {
+  height: calc(100% - 192px);
+  overflow: auto;
+}

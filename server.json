@@ -1,0 +1,33 @@
+{
+  "personas": [
+    {
+      "id": 2,
+      "nombres": "Jaimito",
+      "apellidos": "Marquez Castillo",
+      "edad": "20",
+      "ciudad": "Ica",
+      "edit": false
+    },
+    {
+      "nombres": "Juan",
+      "apellidos": "Diaz",
+      "edad": "23",
+      "ciudad": "Lima",
+      "id": 3
+    },
+    {
+      "nombres": "Luis",
+      "apellidos": "Diaz",
+      "edad": "23",
+      "ciudad": "Piura",
+      "id": 4
+    },
+    {
+      "nombres": "Roberto",
+      "apellidos": "Lopez",
+      "edad": "15",
+      "ciudad": "Trujillo",
+      "id": 5
+    }
+  ]
+}

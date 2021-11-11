@@ -1,0 +1,20 @@
+.l_header__wrapper {
+  display: flex;
+  justify-content: space-between;
+  background-color: gray;
+  padding: 15px 10px 15px 40px;
+  & > .l_header__logo {
+    height: 92px;
+    width: 150px;
+    & > img {
+      width: 100%;
+      height: 100%;
+    }
+  }
+  & > .l_header_menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: calc(100% - 500px);
+  }
+}
